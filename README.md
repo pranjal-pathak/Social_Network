@@ -1,6 +1,8 @@
 # Social_Network
 This is a Java-based social network application that allows users to signup, login, create posts, follow other users, reply to posts, upvote/downvote posts, and view a newsfeed. The application is run on the command line, and all data is stored in memory.
+
 Getting Started
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 Prerequisites
@@ -11,8 +13,10 @@ An Integrated Development Environment (IDE) like Eclipse, NetBeans, or IntelliJ 
 Installing
 Follow these steps to get the application running:
 
-->Clone the repository to your local machine using git clone https://github.com/YOUR-USERNAME/social-network-app.git.
+->Clone the repository to your local machine using git clone https://github.com/pranjal-pathak/Social_Network
+
 ->Open the project in your IDE.
+
 ->Build and run the SocialNetwork.java file.
 
 Usage
