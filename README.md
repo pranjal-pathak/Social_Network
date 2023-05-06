@@ -13,7 +13,7 @@ An Integrated Development Environment (IDE) like Eclipse, NetBeans, or IntelliJ 
 Installing
 Follow these steps to get the application running:
 
-->Clone the repository to your local machine using git clone https://github.com/pranjal-pathak/Social_Network
+->Clone the repository to your local machine using git clone https://github.com/pranjal-pathak/Social_Network.git
 
 ->Open the project in your IDE.
 
